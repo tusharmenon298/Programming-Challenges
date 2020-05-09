@@ -6,4 +6,5 @@
 List of Challenges so far....
 <ol>
   <li>What's the longest word you can write with Seven-Segment Display?</li>
+  <li>Finding Pi using random function in different programming language</li>
 </ol>
